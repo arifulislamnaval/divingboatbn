@@ -43,7 +43,7 @@ My responsibilities included **design review, design management, engineering coo
 |:----------|------:|
 | Length Overall (LOA) | **38.9 m** |
 | Breadth (Max) | **9.0 m** |
-| Maximum Speed | **Not Less Than 15 knots** |
+| Maximum Speed | **15 knots** |
 
 ---
 
