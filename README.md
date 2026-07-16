@@ -72,25 +72,7 @@ My responsibilities included **design review, design management, engineering coo
 
 ---
 
-## 📷 Project Gallery
 
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="./DivingConstruction.jpg" width="450"><br>
-<b>Construction Phase</b>
-</td>
-
-<td align="center">
-<img src="./DivingSeaTrial.jpg" width="450"><br>
-<b>Sea Trials & Delivery</b>
-</td>
-
-</tr>
-</table>
-
----
 
 ## 📬 Contact
 
