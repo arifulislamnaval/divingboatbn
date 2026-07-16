@@ -1,7 +1,7 @@
 # 🤿 Diving Boat (DB)
 
 <p align="center">
-  <img src="./DivingBoat.JPG" alt="Diving Boat" width="100%">
+  <img src="./divingbn.jpg" alt="Diving Boat" width="100%">
 </p>
 
 <h2 align="center">03 × Diving Boat (DB)</h2>
