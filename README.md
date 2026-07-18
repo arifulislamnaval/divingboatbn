@@ -8,22 +8,22 @@
 
 <p align="center">
 <b>Bangladesh Navy (BN)</b><br>
-Naval Architect | Design Review | Design Management | Construction Support
+Senior Naval Architect | Structural Engineering | Production Design | Construction Support
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Class-Bureau%20Veritas-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delivered-2021-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivered-2025-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Project Summary
 
-Participated in the successful delivery of **03 Steel Mono Hull Diving Boats** for the **Bangladesh Navy**. The vessels were designed to support **diving operations, diver training, emergency diving treatment, underwater inspection, and transportation of divers and equipment** for port channels, coastal waters, and inland waterways.
+Successfully delivered **03 Steel Mono Hull Diving Boats** for the **Bangladesh Navy**. Designed to support **diving operations, diver training, underwater inspection, emergency response, and transportation of divers and equipment**, the vessels operate in coastal and inland waters while meeting stringent naval and classification requirements.
 
-My responsibilities included **design review, design management, engineering coordination, and construction support**, ensuring compliance with contractual specifications, Bureau Veritas (BV) classification requirements, and project quality standards throughout design, construction, sea trials, and final delivery.
+My role focused on **structural engineering, production design, engineering documentation, and construction support**, converting the approved basic design into comprehensive production-ready structural drawings and supporting fabrication, assembly, inspections, sea trials, and final delivery.
 
 | **Client** | Bangladesh Navy (BN) |
 |:-----------|:---------------------|
@@ -31,9 +31,9 @@ My responsibilities included **design review, design management, engineering coo
 | **Quantity** | 03 Boats |
 | **Hull Type** | Steel Mono Hull |
 | **Classification** | Bureau Veritas (BV) |
-| **Role** | Naval Architect |
-| **Scope** | Design Review • Design Management • Engineering Coordination • Construction Support |
-| **Delivery** | 2021 |
+| **Role** | Senior Naval Architect |
+| **Scope** | Structural Engineering • Production Design • Construction Support |
+| **Delivery** | 2025 |
 
 ---
 
@@ -49,36 +49,34 @@ My responsibilities included **design review, design management, engineering coo
 
 ## 👨‍💼 Engineering Contributions
 
-- Performed comprehensive design review against contract specifications and Bureau Veritas class requirements.
-- Managed engineering documentation, design revisions, and interdisciplinary coordination throughout the project.
-- Reviewed hull structural, machinery, outfitting, piping, electrical, and production drawings.
-- Ensured compliance with classification rules, statutory regulations, and Bangladesh Navy technical requirements.
-- Coordinated technical activities between designers, production teams, client representatives, and classification surveyors.
-- Provided engineering support during construction, inspections, harbour acceptance tests, sea trials, and vessel commissioning.
-- Assisted in resolving technical issues during fabrication and outfitting to maintain project schedule and quality.
-- Supported final documentation, delivery acceptance, and project close-out activities.
+- Developed detailed hull structural design based on the approved basic design package.
+- Prepared production drawings for hull fabrication, block assembly, structural outfitting, and erection.
+- Produced structural production documentation, including structural details, panel layouts, weld details, and fabrication drawings.
+- Coordinated structural interfaces with machinery, piping, electrical, and outfitting disciplines to ensure production readiness.
+- Reviewed production drawings for constructability, fabrication efficiency, and compliance with Bureau Veritas rules and project specifications.
+- Provided engineering support during fabrication, assembly, and construction by resolving structural and production-related technical issues.
+- Implemented approved engineering changes and maintained production documentation throughout construction.
+- Supported inspections, sea trials, commissioning, and successful delivery of all three diving boats.
 
 ---
 
 ## ⭐ Technical Expertise Demonstrated
 
-**Design Review • Design Management • Engineering Coordination • Steel Ship Structures • Diving Support Vessel Engineering • Bureau Veritas Compliance • Production Engineering • Technical Documentation • Construction Support • Sea Trials • Commissioning • Quality Assurance**
+**Structural Engineering • Hull Structural Design • Production Design • Production Drawings • Steel Ship Structures • AVEVA Marine • Construction Engineering • Engineering Documentation • Bureau Veritas Compliance • Technical Coordination • Construction Support**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • Maxsurf • Rhino3D • AutoCAD • ANSYS**
+**AVEVA Marine • AutoCAD • Rhino3D • Maxsurf • ANSYS**
 
 ---
-
-
 
 ## 📬 Contact
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Design Management | Project Management | Classification Compliance**
+**Senior Naval Architect | Structural Engineering | Production Design | Ship Design | Classification Compliance**
 
 📧 ariful.buet1985@gmail.com
 
